@@ -1,0 +1,14 @@
+C:\Users\dasex\OneDrive\Documents\Alura\C#\e-commerce\bin\Debug\net7.0\e-commerce.exe
+C:\Users\dasex\OneDrive\Documents\Alura\C#\e-commerce\bin\Debug\net7.0\e-commerce.deps.json
+C:\Users\dasex\OneDrive\Documents\Alura\C#\e-commerce\bin\Debug\net7.0\e-commerce.runtimeconfig.json
+C:\Users\dasex\OneDrive\Documents\Alura\C#\e-commerce\bin\Debug\net7.0\e-commerce.dll
+C:\Users\dasex\OneDrive\Documents\Alura\C#\e-commerce\bin\Debug\net7.0\e-commerce.pdb
+C:\Users\dasex\OneDrive\Documents\Alura\C#\e-commerce\obj\Debug\net7.0\e-commerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dasex\OneDrive\Documents\Alura\C#\e-commerce\obj\Debug\net7.0\e-commerce.AssemblyInfoInputs.cache
+C:\Users\dasex\OneDrive\Documents\Alura\C#\e-commerce\obj\Debug\net7.0\e-commerce.AssemblyInfo.cs
+C:\Users\dasex\OneDrive\Documents\Alura\C#\e-commerce\obj\Debug\net7.0\e-commerce.csproj.CoreCompileInputs.cache
+C:\Users\dasex\OneDrive\Documents\Alura\C#\e-commerce\obj\Debug\net7.0\e-commerce.dll
+C:\Users\dasex\OneDrive\Documents\Alura\C#\e-commerce\obj\Debug\net7.0\refint\e-commerce.dll
+C:\Users\dasex\OneDrive\Documents\Alura\C#\e-commerce\obj\Debug\net7.0\e-commerce.pdb
+C:\Users\dasex\OneDrive\Documents\Alura\C#\e-commerce\obj\Debug\net7.0\e-commerce.genruntimeconfig.cache
+C:\Users\dasex\OneDrive\Documents\Alura\C#\e-commerce\obj\Debug\net7.0\ref\e-commerce.dll
